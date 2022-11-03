@@ -1,0 +1,20 @@
+
+html, body {
+  font-family: sans-serif;
+  height: 100%;
+  width: 100%;
+}
+
+h2{color:green}
+p{
+  font-size:small;
+  font-family: sans-serif;
+}
+
+h3{color: #00a}
+
+footer{
+  padding: 20px;
+  color: white;
+  background-color: #00a2c6
+}
